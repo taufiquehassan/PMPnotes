@@ -273,10 +273,11 @@ This is the last process of integration. Before you do this prcess, the delivera
 <li> Organizational Process Assets Updates</li>
 </ul>
 
-<h3>Notes on this chapter:</h3>
 <details>
-  <summary>Click to expand!</summary>
+    <summary> <b> Notes on this chapter </b></summary>
 
+
+<h3>Notes on this chapter</h3>
 * **CBR** : Benefit-Cost Ratio, the bigger the number the better is the project
 * **Business Document** is where the outline of the project is stated
 * **An assumption og** is used to track all assumptions made throughout the project 
