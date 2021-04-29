@@ -46,7 +46,7 @@ the various processes and project management activities within the PM Process Gr
 <ul>
   <li> Benifit Cost Ratio (BCR): Ratio of benifit to cost. </li>
   <li> Economic Value Add (EVA): How much value a project has created for its shareholders </li>
-  <li> Internal Rate of Return (IRR): The Projects return as an interest rate, % </li>
+  <li> Internal Rate of Return (IRR): The Projects return as an interest rate in percent </li>
   <li> Opportunity Cost, (Smaller is better) </li>
   <li> Payback Period, (Quicker is better) </li>
   <li> Present value (time value of money) and Net Present Value (time value of money w/costs factored in </li> 
@@ -83,7 +83,6 @@ the various processes and project management activities within the PM Process Gr
 
 <ul>
   <li> The process of developing a document to formally authorize a project or a phase </li>
-  
 </ul> 
 </details>
 
