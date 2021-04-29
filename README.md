@@ -23,37 +23,37 @@ the various processes and project management activities within the PM Process Gr
 <b> Inputs:</b> 
 
 <ul>
-<li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
-<ol>
-  <li> <b>Business Case: </b> Necessary information that determines whether or not the project is worth the required investment. Eg: Market Demand, Customer Request, Organizational Need, Legal requirement </li>
-  <li> <b> Project Benefits Management Plan: </b> Describes the main benefits that the project will produce once it is completed and how to measure the benefits. The project benefit could be the product, service, or result. It maybe created by doing a cost-benefit analysis a project.
-</ol>
-</li>
+  <li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
+  <ol>
+    <li> <b>Business Case: </b> Necessary information that determines whether or not the project is worth the required investment. Eg: Market Demand, Customer Request, Organizational Need, Legal requirement </li>
+    <li> <b> Project Benefits Management Plan: </b> Describes the main benefits that the project will produce once it is completed and how to measure the benefits. The project benefit could be the product, service, or result. It maybe created by doing a cost-benefit analysis a project.
+  </ol>
+  </li>
   
-<li> <b> Agreements:</b>
-<ul>
-  <li> Service Level Agreements (SLA) </li>
-  <li> Letters of intent </li>
-  <li> Contract between the internal and external customer </li>
-  <li> Work required to be performed for payment </li>
-</ul>
-</li>
+  <li> <b> Agreements:</b>
+  <ul>
+    <li> Service Level Agreements (SLA) </li>
+    <li> Letters of intent </li>
+   <li> Contract between the internal and external customer </li>
+    <li> Work required to be performed for payment </li>
+  </ul>
+  </li>
   
-<li> <b> Enterprise Environmental Factors</b> </li>
-<li> <b> Organizational Process Assets </b></li>
+  <li> <b> Enterprise Environmental Factors</b> </li>
+  <li> <b> Organizational Process Assets </b></li>
 
-<li> <b> Project selection Methods: </b>
-<ul>
-  <li> Benifit Cost Ratio (BCR): Ratio of benifit to cost. </li>
-  <li> Economic Value Add (EVA): How much value a project has created for its shareholders </li>
-  <li> Internal Rate of Return (IRR): The Projects return as an interest rate in percent </li>
-  <li> Opportunity Cost, (Smaller is better) </li>
-  <li> Payback Period, (Quicker is better) </li>
-  <li> Present value (time value of money) and Net Present Value (time value of money w/costs factored in </li> 
-  <li> ROI, (Return on Investment) </li> 
-</ul>
-</li>
-</ul>
+  <li> <b> Project selection Methods: </b>
+  <ul>
+    <li> Benifit Cost Ratio (BCR): Ratio of benifit to cost. </li>
+    <li> Economic Value Add (EVA): How much value a project has created for its shareholders </li>
+    <li> Internal Rate of Return (IRR): The Projects return as an interest rate in percent </li>
+    <li> Opportunity Cost, (Smaller is better) </li>
+    <li> Payback Period, (Quicker is better) </li>
+    <li> Present value (time value of money) and Net Present Value (time value of money w/costs factored in </li> 
+    <li> ROI, (Return on Investment) </li> 
+  </ul>
+  </li>
+  </ul>
 
 <b> Tools and Techniques:</b>
 <ul>
@@ -88,6 +88,13 @@ the various processes and project management activities within the PM Process Gr
   <li> Contains Bbselines and plans </li>
   
 </ul> 
+
+<b> Inputs:</b> 
+
+<ul>
+<li> 
+
+
 </details>
 
 
