@@ -11,14 +11,13 @@ the various processes and project management activities within the PM Process Gr
 <details>
   <summary> <b> 1. Initiating: Develop Project Charter</b></summary>
 
- <ul>
+<ul>
   <li> The process of developing a document to formally authorize a project or a phase </li>
   <li> Outlines the project objectives </li>
   <li> Defines the authority of the project manager</li>
   <li> Provides the project manager with the authority to put the resources together to project activities</li>
   <li> Establishes a direct link between the project and the strategic objectives of the organization and assures the organizational commitment to the project</li>
   <li> The approved project charter formally initiates the project</li>
-  
 </ul> 
 
 <b> Inputs:</b> 
@@ -77,17 +76,13 @@ the various processes and project management activities within the PM Process Gr
 </li>
 <li> <b> Assumption Log: </b> A list of things that you perceive to be true (assumptions) and things that might constrain the project. </li>
 </ul>
-
-
-
 </details>
 
 <details>
   <summary> <b> 2. Planning: Develop Project Management Plan </b></summary>
 
- <ul>
+<ul>
   <li> The process of developing a document to formally authorize a project or a phase </li>
-
   
 </ul> 
 </details>
