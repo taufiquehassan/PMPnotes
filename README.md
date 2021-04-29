@@ -56,7 +56,7 @@ the various processes and project management activities within the PM Process Gr
   </li>
   </ul>
 
-<h3> Tools and Techniques:</3>
+<h3> Tools and Techniques:</h3>
 <ul>
   <li> <b> Expert Judgment </b></li>
   <li> <b> Meetings </b></li>
@@ -83,6 +83,7 @@ the various processes and project management activities within the PM Process Gr
   <summary> <b> 2. Planning: Develop Project Management Plan </b></summary>
 
 <h2>Planning: Develop Project Management Plan </h2>
+
 <ul>
   <li> Process of defining, preparing, and coordinating all plan components and consolidating them into an integrated project management plan. </li>
   <li> Comprehensive document that outlines the basis of all project work and how the work will be performed </li>
@@ -101,8 +102,28 @@ the various processes and project management activities within the PM Process Gr
 <ul>
   
 
+<h3> Tools and Techniques:</h3> 
+
+<ul>
+  <li> Expert Judgment </li>
+  <li> Data Gathering: Brainstorming, Checklists, Focus groups, Interview </li> 
+  <li> Interpersonal and Team Skills: Conflict Management, Facilitation, Meeting Management </li> 
+  <li> Meetings: Kick-off meeting </li>
+</ul>
 
 
+<h3> Outputs:</h3> 
+<b> Project Management Plan </b> 
+      > Outlines how the project is executed, monitored and controlled, and closed.
+      > 4 Baselines: Scope, Schedule, Cost and Performance measurement
+      > 14 subsidiary plans
+      > Approved by either the Project Manager, Sponsor, Functional Manager, Program Manager, or in rare instances Senior Management
+      > Provides Guidance on project execution
+      > Formal Written piece of communication
+      > Only changed when a change request is generated and approved by the change control board
+  
+    
+    
 </details>
 
 
