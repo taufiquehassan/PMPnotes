@@ -1,6 +1,16 @@
 <img src="header.png">
 
-# Project Integration Management
+# Knowledge Areas
+
+## Project Integration Management
+```
+PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate the various processes and project management activities within the PM Process Groups.”
+```
+### Initiating: Develop Project Charter
+<details>
+  <summary>Click to expand!</summary>
+
+
 
 ## Monitor and Control Project Work - Output
 * Change request 
