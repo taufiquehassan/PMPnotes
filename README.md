@@ -135,97 +135,141 @@ the various processes and project management activities within the PM Process Gr
     
 </details>
 
+<details>
+  <summary> <b> 3. Executing: Direct and Manage Project Work </b></summary>
+
+<h2>Executing: Direct and Manage Project Work </h2>
 
 
-## Monitor and Control Project Work - Output
-* Change request 
-* Work performance reports
-* Project Management Plan updates
-* Project Document updates
+</details>
 
-## Perform Integrated Change Control
+<details>
+  <summary> <b> 4. Executing: Manage Project Knowledge </b></summary>
+
+<h2>Executing: Manage Project Knowledge </h2>
+
+
+</details>
+
+<details>
+  <summary> <b> 5. Monitoring & Controlling: Monitor and Control Project Work </b></summary>
+
+<h2> Monitoring & Controlling: Monitor and Control Project Work </h2>
+
+<ul>
+  <li> Change request</li>
+  <li> Work performance reports</li>
+  <li> Project Management Plan updates</li>
+  <li> Project Document updates</li>
+</ul> 
+
+
+</details>
+
+
+<details>
+  <summary> <b> 6. Monitoring & Controlling: Perform Integrated Change Control </b></summary>
+
+<h2>Monitoring & Controlling: Perform Integrated Change Control  </h2>
+
 "This is a hot topic, Anticipate lots of questions in the PMP exam"
-1. Review all change requests
-2. Communicating the decisions
-3. Process where you assess the change's impact on the project
-4. PM ultimately responsible for all changes
-5. Any stakeholder may request change
-6. **Change requests has to be in a written form
-7. Change control board: Group responsible for reviewing, evaluating, approving, decision making and communicating
 
-## Change Control Process
-* Process for making change
-1. A stakeholder needs to indentify a need for a change
-2. PM asses the change and look for any other options for the change request.  Looks for the impact of the change request.
-3. The change request is submitted to the Change Control Board.
-4. If approved, the PM will adjust the Project Management Plan, and then manage the the project to the new plan.
-5. If it is not approved, the team goes back to the issue and develop a new change request, repeat step 1.
+<ol>
+  <li> Review all change requests</li>
+  <li> Communicating the decisions</li>
+  <li> Process where you assess the change's impact on the project</li>
+  <li> PM ultimately responsible for all changes</li>  
+  <li> Any stakeholder may request change</li>
+  <li> Change requests has to be in a written form</li>
+  <li> Change control board: Group responsible for reviewing, evaluating, approving, decision making and communicating</li>
+  
+</ol> 
 
+<b> Change Control Process </b>
+<ol>
+  <li> A stakeholder needs to indentify a need for a change</li>
+  <li> PM asses the change and look for any other options for the change request.  Looks for the impact of the change request.</li>
+  <li> The change request is submitted to the Change Control Board.</li>
+  <li> If approved, the PM will adjust the Project Management Plan, and then manage the the project to the new plan.</li>
+  <li> If it is not approved, the team goes back to the issue and develop a new change request, repeat step 1.</li>
+  <li>
 
-## Perform Integrated Change Control - Inputs
-* Project Management Plan
-* Project Documents
-* Work Performance Report
-* Change Requests  (this will be the main input)
-* Entirprise Environment Factors
-* Organizational Process Assets
-* Export Judgement
-* Meeting
-* Data Analysis
-* Change Control Tools
-> To amanage the change requests, status, and resulting decisions\
-> Update the stakeholder sith current information
-* Approved Change Requests
-> Once the change control board members approve a change requests, it will be implemented in the Direct and Manage Project Work process.
-* Project Management Plan Updates
-* Project Document updates
-> change log
+<h3> Inputs: </h3>
+<ul>
+  <li> Project Management Plan</li>
+  <li> Project Documents</li>
+  <li> Work Performance Report</li>
+  <li> Change Requests  (this will be the main input)</li>
+  <li> Entirprise Environment Factors</li>
+  <li> Organizational Process Assets</li>
+  <li> Export Judgement</li>
+  <li> Meeting</li>
+  <li> Data Analysis</li>
+  <li> Change Control Tools</li>
+     To amanage the change requests, status, and resulting decisions\
+     Update the stakeholder sith current information
+  <li>Approved Change Requests</li>
+      Once the change control board members approve a change requests, it will be implemented in the Direct and Manage Project Work process.
+  <li>Project Management Plan Updates</li>
+  <li> Project Document updates</li>
+        change log
 
-## Close Project or Phase
-> This is the last process of integration. Before you do this prcess, the deliverable will have to be accepted.
-* Finalize all activities.
-* Making certain that all documents and deliverables are up-to-date and that all issues are resolved.
-* Confirming the delivery and formal acceptance of the deliverables by the customer
-* Closing project accounts
-* Reassing personal
-* Confirming the formal acceptance of the seller's work
-* Audit project success or failure
-* Identify lesson learned, and archive project informaion for future use
-* Transfer the project's products, services, or results to the next phase or production and/ operations
-* Investigate and document the reasons for the actions taken if the project is terminated before completion.
+</details>
 
-## Cloe Project or Phase -ITTO
+<details>
+  <summary> <b> 6. Closing: Close Project or Phase </b></summary>
 
-## Inputs
-* Project Charter
-* Project Management Plan
-* Project Documents
-* Accepted Deliverables
-* Business Documents
-* Aggrements
-* Procurement Documentations
-* Organizational Process Assets
-
-## Tools and Techniques
-* Expert Judgements
-* Analytical Techniques
-> Ducument Analysis
-> Trend Analysis
-> Variance Analysis
-* Meetings
-
-## Outputs
-* Final Product service, or result transition
-> The transition of the deliverible to organization
-* Final report
-> A summary of what took place in the project
-> how successful was the project?
-> Any variation in the baseline
-* Project Document Updates
-* Organizational Process Assets Updates
+<h2>Closing: Close Project or Phase </h2>
+This is the last process of integration. Before you do this prcess, the deliverable will have to be accepted.
 
 
-## Notes on this chapter:
+<ul>
+  <li> Finalize all activities.</li>
+  <li> Making certain that all documents and deliverables are up-to-date and that all issues are resolved.</li>
+  <li> Confirming the delivery and formal acceptance of the deliverables by the customer</li>
+  <li> Closing project accounts</li>
+  <li> Reassing personal</li>
+  <li> Confirming the formal acceptance of the seller's work</li>
+  <li>  Audit project success or failure</li>
+  <li>  Identify lesson learned, and archive project informaion for future use</li>
+  <li>  Transfer the project's products, services, or results to the next phase or production and/ operations</li>
+  <li> Investigate and document the reasons for the actions taken if the project is terminated before completion.</li>
+</ul>
+
+<h3> Inputs</h3>
+<ul>
+  <li> Project Charter</li>
+  <li>  Project Management Plan</li>
+  <li> Project Documents</li>
+  <li>  Accepted Deliverables</li>
+  <li> Business Documents</li>
+  <li>  Aggrements</li>
+  <li>  Procurement Documentations</li>
+  <li> Organizational Process Assets</li>
+
+<h3>Tools and Techniques</h3>
+<ul>
+  </li>Expert Judgements</li>
+  </li> Analytical Techniques</li>
+        Ducument Analysis
+        Trend Analysis
+         Variance Analysis
+  </li> Meetings</li>
+
+<h3> Outputs</h3>
+<li>Final Product service, or result transition</li>
+    The transition of the deliverible to organization
+<li> Final report
+  <ul>
+    <li>A summary of what took place in the project</li>
+    <li> how successful was the project?</li>
+    <li>Any variation in the baseline</li>
+    </UL>
+<li>Project Document Updates</li>
+<li> Organizational Process Assets Updates</li>
+
+
+<h3>Notes on this chapter:</h3>
 <details>
   <summary>Click to expand!</summary>
 
