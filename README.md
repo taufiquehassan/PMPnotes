@@ -217,7 +217,7 @@ the various processes and project management activities within the PM Process Gr
 </details>
 
 <details>
-  <summary> <b> 6. Closing: Close Project or Phase </b></summary>
+  <summary> <b> 7. Closing: Close Project or Phase </b></summary>
 
 <h2>Closing: Close Project or Phase </h2>
 This is the last process of integration. Before you do this prcess, the deliverable will have to be accepted.
@@ -246,7 +246,7 @@ This is the last process of integration. Before you do this prcess, the delivera
   <li>  Aggrements</li>
   <li>  Procurement Documentations</li>
   <li> Organizational Process Assets</li>
-
+</ul>
 <h3>Tools and Techniques</h3>
 <ul>
   </li>Expert Judgements</li>
