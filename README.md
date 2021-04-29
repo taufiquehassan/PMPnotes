@@ -22,7 +22,7 @@ the various processes and project management activities within the PM Process Gr
   
 </ul> 
 
-<u> <b>Inputs:</b> </u>
+<b><u> Inputs:</u> </b> 
 <ul>
 <li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
 <ol>
