@@ -89,10 +89,16 @@ the various processes and project management activities within the PM Process Gr
   
 </ul> 
 
-<b> Inputs:</b> 
+<h2> Inputs:</h2> 
 
 <ul>
-<li> 
+  <li> <b> Project Charter: </b> Previous process (Develop Project Charter) </li>
+  <li> <b> Outputs from other Planning Processes: </b> Outputs such as baselines and subsidiary management plans from the scope, time, cost, quality, risk, human resource, communication, procurement, and stakeholder planning processes are consolidated to create the Project Management Plan. </li>
+  <li> <b> Enterprise Environmental Factors </b> </li>
+  <li> <b> Organizational Process Assets </b> </li>
+<ul>
+  
+
 
 
 </details>
