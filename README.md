@@ -57,7 +57,7 @@ the various processes and project management activities within the PM Process Gr
 </li>
 </ul>
 
-<u> <b>Tools and Techniques:</b> </u>
+### Tools and Techniques:
 <ul>
   <li> <b> Expert Judgment </b></li>
   <li> <b> Meetings </b></li>
@@ -65,7 +65,7 @@ the various processes and project management activities within the PM Process Gr
   <li> <b> Interpersonal and Team Skills :</b> Guide the development of the project, (Project Meetings, brainstorming, problem solving, & conflict resolution). Meeting management techniques will be needed in order to ensure meetings are run properly. </li>
 </ul>
 
-<u> <b>Output:</b> </u>
+### Output:
 <ul>
 <li> <b> Project Charter</b> 
      <ul>
