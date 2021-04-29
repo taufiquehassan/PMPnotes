@@ -114,15 +114,24 @@ the various processes and project management activities within the PM Process Gr
 
 <h3> Outputs:</h3> 
 <b> Project Management Plan </b> 
-      > Outlines how the project is executed, monitored and controlled, and closed\
-      > 4 Baselines: Scope, Schedule, Cost and Performance measurement\
-      > 14 subsidiary plans\
-      > Approved by either the Project Manager, Sponsor, Functional Manager, Program Manager, or in rare instances Senior Management\
-      > Provides Guidance on project execution\
-      > Formal Written piece of communication\
-      > Only changed when a change request is generated and approved by the change control board\
-  
-    
+<ul>
+  <li> Outlines how the project is executed, monitored and controlled, and closed </li> 
+  <li> 4 Baselines: Scope, Schedule, Cost and Performance measurement</li>
+  <li> 14 subsidiary plans</li>
+  <li> Approved by either the Project Manager, Sponsor, Functional Manager, Program Manager, or in rare instances Senior Management</li>
+  <li> Provides Guidance on project execution</li>
+  <li> Formal Written piece of communication</li>
+  <li> Only changed when a change request is generated and approved by the change control board</li>
+</ul>
+
+<ul>
+  <li> <b>Process Improvement Plan: </b> Defines how processes that are used on the project will be evaluated and improved </li>
+  <li> <b>Change Management Plan:</b> Defines how change requests will be managed, controlled, and formally authorized </li>
+  <li> <b>Configuration Management Plan:</b> Defines how documentation changes concerning the project’s deliverables and processes will be managed </li>
+  <li> <b>Performance Measurement Baseline:</b> This is a record of what the project had planned, scheduled, and budgeted in terms of scope, schedule, and cost performance </li>
+  <li> <b>Project Life Cycle: A representation of the generally sequential and sometimes overlapping project phases that a project typically goes through. </li>
+  <li> <b>Management Review: </b> A review by the project manager, stakeholders, and management to evaluate whether the project has the expected performance or there is a necessity to take preventive or corrective actions </li>
+</ul>   
     
 </details>
 
