@@ -11,6 +11,7 @@ the various processes and project management activities within the PM Process Gr
 <details>
   <summary> <b> 1. Initiating: Develop Project Charter</b></summary>
 
+<h3> Initiating: Develop Project Charter </h3>
 <ul>
   <li> The process of developing a document to formally authorize a project or a phase </li>
   <li> Outlines the project objectives </li>
@@ -20,7 +21,7 @@ the various processes and project management activities within the PM Process Gr
   <li> The approved project charter formally initiates the project</li>
 </ul> 
 
-<b> Inputs:</b> 
+<h3> Inputs:</h3> 
 
 <ul>
   <li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
@@ -55,7 +56,7 @@ the various processes and project management activities within the PM Process Gr
   </li>
   </ul>
 
-<b> Tools and Techniques:</b>
+<h3> Tools and Techniques:</3>
 <ul>
   <li> <b> Expert Judgment </b></li>
   <li> <b> Meetings </b></li>
@@ -63,7 +64,7 @@ the various processes and project management activities within the PM Process Gr
   <li> <b> Interpersonal and Team Skills :</b> Guide the development of the project, (Project Meetings, brainstorming, problem solving, & conflict resolution). Meeting management techniques will be needed in order to ensure meetings are run properly. </li>
 </ul>
 
-<b> Output: </b>
+<h3> Output: </h3>
 <ul>
 <li> <b> Project Charter</b> 
      <ul>
@@ -81,7 +82,7 @@ the various processes and project management activities within the PM Process Gr
 <details>
   <summary> <b> 2. Planning: Develop Project Management Plan </b></summary>
 
-<h2> 2. Planning: Develop Project Management Plan </h2>
+<h2>Planning: Develop Project Management Plan </h2>
 <ul>
   <li> Process of defining, preparing, and coordinating all plan components and consolidating them into an integrated project management plan. </li>
   <li> Comprehensive document that outlines the basis of all project work and how the work will be performed </li>
