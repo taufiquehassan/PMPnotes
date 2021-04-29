@@ -89,7 +89,7 @@ the various processes and project management activities within the PM Process Gr
   
 </ul> 
 
-<h2> Inputs:</h2> 
+<h3> Inputs:</h3> 
 
 <ul>
   <li> <b> Project Charter: </b> Previous process (Develop Project Charter) </li>
