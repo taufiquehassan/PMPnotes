@@ -7,9 +7,9 @@
 PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate 
 the various processes and project management activities within the PM Process Groups.”
 ```
-### Initiating: Develop Project Charter
+### Process Groups:
 <details>
-  <summary> <b> 1. Develop Project Charter</b></summary>
+  <summary> <b> 1. Initiating: Develop Project Charter</b></summary>
 
  <ul>
   <li> The process of developing a document to formally authorize a project or a phase </li>
@@ -20,7 +20,43 @@ the various processes and project management activities within the PM Process Gr
   <li> The approved project charter formally initiates the project</li>
   
 </ul> 
+
+<b>Inputs:</b>
+<b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan.
+<ol>
+  <li> <b>Business Case: </b> Necessary information that determines whether or not the project is worth the required investment. Eg: Market Demand, Customer Request, Organizational Need, Legal requirement </li>
+  <li> <b> Project Benefits Management Plan: </b> Describes the main benefits that the project will produce once it is completed and how to measure the benefits. The project benefit could be the product, service, or result. It maybe created by doing a cost-benefit analysis a project.
+</ol>
+
+<b> Agreements:</b>
+<ul>
+  <li> Service Level Agreements (SLA) </li>
+  <li> Letters of intent </li>
+  <li> Contract between the internal and external customer <li>
+  <li> Work required to be performed for payment </li>
+<ul>
+  
+<b> Enterprise Environmental Factors</b>
+<b> Organizational Process Assets </b>
+
+
+
+
+
+
 </details>
+
+<details>
+  <summary> <b> 2. Planning: Develop Project Management Plan </b></summary>
+
+ <ul>
+  <li> The process of developing a document to formally authorize a project or a phase </li>
+
+  
+</ul> 
+</details>
+
+
 
 ## Monitor and Control Project Work - Output
 * Change request 
