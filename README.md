@@ -11,7 +11,6 @@ the various processes and project management activities within the PM Process Gr
 <details>
   <summary> <b> 1. Initiating: Develop Project Charter</b></summary>
 
-## 1. Initiating: Develop Project Charter
  <ul>
   <li> The process of developing a document to formally authorize a project or a phase </li>
   <li> Outlines the project objectives </li>
@@ -22,7 +21,7 @@ the various processes and project management activities within the PM Process Gr
   
 </ul> 
 
-### Inputs: 
+<u> Inputs:</u> 
 
 <ul>
 <li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
