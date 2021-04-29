@@ -41,7 +41,7 @@ the various processes and project management activities within the PM Process Gr
   
 <li> <b> Enterprise Environmental Factors</b> </li>
 <li> <b> Organizational Process Assets </b></li>
-
+</ul>
 
 
 
