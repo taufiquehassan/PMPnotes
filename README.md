@@ -41,6 +41,18 @@ the various processes and project management activities within the PM Process Gr
   
 <li> <b> Enterprise Environmental Factors</b> </li>
 <li> <b> Organizational Process Assets </b></li>
+
+<li> <b> Project selection Methods: </b>
+<ul>
+  <li> Benifit Cost Ratio (BCR): Ratio of benifit to cost. </li>
+  <li> Economic Value Add (EVA): How much value a project has created for its shareholders </li>
+  <li> Internal Rate of Return (IRR): The Projects return as an interest rate, % </li>
+  <li> Opportunity Cost, (Smaller is better) </li>
+  <li> Payback Period, (Quicker is better) </li>
+  <li> Present value (time value of money) and Net Present Value (time value of money w/costs factored in </li> 
+  <li> ROI, (Return on Investment) </li> 
+</ul>
+</li>
 </ul>
 
 
