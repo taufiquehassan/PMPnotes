@@ -9,9 +9,18 @@ the various processes and project management activities within the PM Process Gr
 ```
 ### Initiating: Develop Project Charter
 <details>
-  <summary>Click to expand!</summary>
+  <summary> <b> 1. Develop Project Charter</b></summary>
 
-
+ <ul>
+  <li> The process of developing a document to formally authorize a project or a phase </li>
+  <li> Outlines the project objectives </li>
+  <li> Defines the authority of the project manager</li>
+  <li> Provides the project manager with the authority to put the resources together to project activities</li>
+  <li> Establishes a direct link between the project and the strategic objectives of the organization and assures the organizational commitment to the project</li>
+  <li> The approved project charter formally initiates the project</li>
+  
+</ul> 
+</details>
 
 ## Monitor and Control Project Work - Output
 * Change request 
