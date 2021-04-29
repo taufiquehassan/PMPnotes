@@ -22,7 +22,7 @@ the various processes and project management activities within the PM Process Gr
   
 </ul> 
 
-<b>Inputs:</b>
+<u> <b>Inputs:</b> </u>
 <ul>
 <li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
 <ol>
@@ -56,11 +56,27 @@ the various processes and project management activities within the PM Process Gr
 </li>
 </ul>
 
-<b>Tools and Techniques:</b>
+<u> <b>Tools and Techniques:</b> </u>
 <ul>
   <li> <b> Expert Judgment </b></li>
   <li> <b> Meetings </b></li>
   <li> <b> Data Gathering: </b> Techniques such as brainstorming, focus groups, and interviews. </li>
+  <li> <b> Interpersonal and Team Skills :</b> Guide the development of the project, (Project Meetings, brainstorming, problem solving, & conflict resolution). Meeting management techniques will be needed in order to ensure meetings are run properly. </li>
+</ul>
+
+<u> <b>Output:</b> </u>
+<ul>
+<li> <b> Project Charter</b> 
+     <ul>
+       <li> Formally authorizes the existence of the project and it assigns the Project Manager and their Authority Level </li>
+       <li> Signed by the organization Senior Management </li>
+       <li> High Level requirements & risks </li>
+       <li> Preliminary Project Budget and Schedule </li>
+       <li> Project Purpose or justification </li>
+     </ul>
+</li>
+<li> <b> Assumption Log: </b> A list of things that you perceive to be true (assumptions) and things that might constrain the project. </li>
+</ul>
 
 
 
