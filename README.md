@@ -102,7 +102,7 @@ the various processes and project management activities within the PM Process Gr
 </ul>
   
 
-<alt-h3> Tools and Techniques:</alt-h3> 
+<h3> Tools and Techniques:</h3> 
 
 <ul>
   <li> Expert Judgment </li>
@@ -114,13 +114,13 @@ the various processes and project management activities within the PM Process Gr
 
 <h3> Outputs:</h3> 
 <b> Project Management Plan </b> 
-      > Outlines how the project is executed, monitored and controlled, and closed.
-      > 4 Baselines: Scope, Schedule, Cost and Performance measurement
-      > 14 subsidiary plans
-      > Approved by either the Project Manager, Sponsor, Functional Manager, Program Manager, or in rare instances Senior Management
-      > Provides Guidance on project execution
-      > Formal Written piece of communication
-      > Only changed when a change request is generated and approved by the change control board
+      > Outlines how the project is executed, monitored and controlled, and closed\
+      > 4 Baselines: Scope, Schedule, Cost and Performance measurement\
+      > 14 subsidiary plans\
+      > Approved by either the Project Manager, Sponsor, Functional Manager, Program Manager, or in rare instances Senior Management\
+      > Provides Guidance on project execution\
+      > Formal Written piece of communication\
+      > Only changed when a change request is generated and approved by the change control board\
   
     
     
