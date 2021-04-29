@@ -7,10 +7,11 @@
 PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate 
 the various processes and project management activities within the PM Process Groups.”
 ```
-### Process Groups:
+## Process Groups:
 <details>
   <summary> <b> 1. Initiating: Develop Project Charter</b></summary>
 
+## 1. Initiating: Develop Project Charter
  <ul>
   <li> The process of developing a document to formally authorize a project or a phase </li>
   <li> Outlines the project objectives </li>
@@ -55,7 +56,11 @@ the various processes and project management activities within the PM Process Gr
 </li>
 </ul>
 
-
+<b>Tools and Techniques:</b>
+<ul>
+  <li> <b> Expert Judgment </b></li>
+  <li> <b> Meetings </b></li>
+  <li> <b> Data Gathering: </b> Techniques such as brainstorming, focus groups, and interviews. </li>
 
 
 
