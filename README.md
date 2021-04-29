@@ -82,7 +82,11 @@ the various processes and project management activities within the PM Process Gr
   <summary> <b> 2. Planning: Develop Project Management Plan </b></summary>
 
 <ul>
-  <li> The process of developing a document to formally authorize a project or a phase </li>
+  <li> Process of defining, preparing, and coordinating all plan components and consolidating them into an integrated project management plan. </li>
+  <li> Comprehensive document that outlines the basis of all project work and how the work will be performed </li>
+  <li> Either summary or detailed </li> 
+  <li> Contains Bbselines and plans </li>
+  
 </ul> 
 </details>
 
