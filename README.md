@@ -99,10 +99,10 @@ the various processes and project management activities within the PM Process Gr
   <li> <b> Outputs from other Planning Processes: </b> Outputs such as baselines and subsidiary management plans from the scope, time, cost, quality, risk, human resource, communication, procurement, and stakeholder planning processes are consolidated to create the Project Management Plan. </li>
   <li> <b> Enterprise Environmental Factors </b> </li>
   <li> <b> Organizational Process Assets </b> </li>
-<ul>
+</ul>
   
 
-<h3> Tools and Techniques:</h3> 
+<alt-h3> Tools and Techniques:</alt-h3> 
 
 <ul>
   <li> Expert Judgment </li>
