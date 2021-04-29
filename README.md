@@ -272,10 +272,10 @@ This is the last process of integration. Before you do this prcess, the delivera
 <li>Project Document Updates</li>
 <li> Organizational Process Assets Updates</li>
 </ul>
+</details>
 
 <details>
     <summary> <b> Notes on this chapter </b></summary>
-
 
 <h3>Notes on this chapter</h3>
 * **CBR** : Benefit-Cost Ratio, the bigger the number the better is the project
