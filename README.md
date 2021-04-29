@@ -247,6 +247,7 @@ This is the last process of integration. Before you do this prcess, the delivera
   <li>  Procurement Documentations</li>
   <li> Organizational Process Assets</li>
 </ul>
+
 <h3>Tools and Techniques</h3>
 <ul>
   </li>Expert Judgements</li>
@@ -255,8 +256,11 @@ This is the last process of integration. Before you do this prcess, the delivera
         Trend Analysis
          Variance Analysis
   </li> Meetings</li>
+</ul>
+
 
 <h3> Outputs</h3>
+<ul>
 <li>Final Product service, or result transition</li>
     The transition of the deliverible to organization
 <li> Final report
@@ -267,7 +271,7 @@ This is the last process of integration. Before you do this prcess, the delivera
     </UL>
 <li>Project Document Updates</li>
 <li> Organizational Process Assets Updates</li>
-
+</ul>
 
 <h3>Notes on this chapter:</h3>
 <details>
