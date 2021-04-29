@@ -24,10 +24,10 @@ the various processes and project management activities within the PM Process Gr
 
 <ul>
   <li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
-  <ol>
-    <li> <b>Business Case: </b> Necessary information that determines whether or not the project is worth the required investment. Eg: Market Demand, Customer Request, Organizational Need, Legal requirement </li>
-    <li> <b> Project Benefits Management Plan: </b> Describes the main benefits that the project will produce once it is completed and how to measure the benefits. The project benefit could be the product, service, or result. It maybe created by doing a cost-benefit analysis a project.
-  </ol>
+    <ol>
+      <li> <b>Business Case: </b> Necessary information that determines whether or not the project is worth the required investment. Eg: Market Demand, Customer Request, Organizational Need, Legal requirement </li>
+      <li> <b> Project Benefits Management Plan: </b> Describes the main benefits that the project will produce once it is completed and how to measure the benefits. The project benefit could be the product, service, or result. It maybe created by doing a cost-benefit analysis a project.
+    </ol>
   </li>
   
   <li> <b> Agreements:</b>
