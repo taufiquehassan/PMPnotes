@@ -34,9 +34,9 @@ the various processes and project management activities within the PM Process Gr
 <ul>
   <li> Service Level Agreements (SLA) </li>
   <li> Letters of intent </li>
-  <li> Contract between the internal and external customer <li>
+  <li> Contract between the internal and external customer </li>
   <li> Work required to be performed for payment </li>
-<ul>
+</ul>
 </li>
   
 <li> <b> Enterprise Environmental Factors</b> </li>
