@@ -21,7 +21,7 @@ the various processes and project management activities within the PM Process Gr
   
 </ul> 
 
-<u> Inputs:</u> 
+<b> Inputs:</b> 
 
 <ul>
 <li> <b>Business Documents: </b> Contain specific information as to why a project should be initiated. There are two main documents the business case and the benefits management plan. 
@@ -56,7 +56,7 @@ the various processes and project management activities within the PM Process Gr
 </li>
 </ul>
 
-### Tools and Techniques:
+<b> Tools and Techniques:</b>
 <ul>
   <li> <b> Expert Judgment </b></li>
   <li> <b> Meetings </b></li>
@@ -64,7 +64,7 @@ the various processes and project management activities within the PM Process Gr
   <li> <b> Interpersonal and Team Skills :</b> Guide the development of the project, (Project Meetings, brainstorming, problem solving, & conflict resolution). Meeting management techniques will be needed in order to ensure meetings are run properly. </li>
 </ul>
 
-### Output:
+<b> Output: </b>
 <ul>
 <li> <b> Project Charter</b> 
      <ul>
