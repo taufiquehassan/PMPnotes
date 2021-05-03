@@ -1,6 +1,6 @@
 <img src="header.png">
 
-# Project Integration Management 
+# Integration Management 
 ```
 PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate 
 the various processes and project management activities within the PM Process Groups.”
@@ -300,7 +300,25 @@ Once a **change request** has been approved in the perform integrated change con
 </details>
 
 
+# Scope Management 
+```
+PMBOK – “Includes the process required to ensure that the project includes all the work required and only the work required to complete the project successfully. Managing the project scope is primarily concerned with defining and controlling what is and what is not included in the project.”
+```
+## Process Groups:
+<details>
+  <summary> <b> 1. Planning: Plan Scope Management</b></summary>
 
+<h3> Planning: Plan Scope Management </h3>
+<ul>
+  <li> The process of developing a document to formally authorize a project or a phase </li>
+  <li> Outlines the project objectives </li>
+  <li> Defines the authority of the project manager</li>
+  <li> Provides the project manager with the authority to put the resources together to project activities</li>
+  <li> Establishes a direct link between the project and the strategic objectives of the organization and assures the organizational commitment to the project</li>
+  <li> The approved project charter formally initiates the project</li>
+</ul> 
+
+<h3> Inputs:</h3> 
 
 
 
