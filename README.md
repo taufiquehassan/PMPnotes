@@ -1,8 +1,5 @@
 <img src="header.png">
-
-# Knowledge Areas 
-
-## Project Integration Management 
+# Project Integration Management 
 ```
 PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate 
 the various processes and project management activities within the PM Process Groups.”
