@@ -276,9 +276,9 @@ This is the last process of integration. Before you do this prcess, the delivera
     <summary> <b> Notes on this chapter </b></summary>
 
 <h3>Notes on this chapter</h3>
-* **CBR** : Benefit-Cost Ratio, the bigger the number the better is the project
-* **Business Document** is where the outline of the project is stated
-* **An assumption og** is used to track all assumptions made throughout the project 
+<li>*CBR** : Benefit-Cost Ratio, the bigger the number the better is the project</li>
+***Business Document** is where the outline of the project is stated
+***An assumption og** is used to track all assumptions made throughout the project 
 * The tool that is used for arranging a team with different skill set is a focus group, which is part of **Data Gathering**. “Meeting” and “interpersonal and team skills” do not involve a focus group.
 * The **project management plan** contains the change management plan. 
 Once a **change request** has been approved in the perform integrated change control process, the project manager will then execute the change in the **direct and manage project work process**
