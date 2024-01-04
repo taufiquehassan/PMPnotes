@@ -322,6 +322,7 @@ controlling what is and what is not included in the project.”
 
 <h3> Inputs:</h3> 
 
+</details>
 
 ## Introduction:
 <details>
@@ -338,4 +339,4 @@ controlling what is and what is not included in the project.”
 </ul> 
 
 <h3> Inputs:</h3> 
-
+</details>
