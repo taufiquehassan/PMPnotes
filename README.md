@@ -276,11 +276,11 @@ This is the last process of integration. Before you do this prcess, the delivera
     <summary> <b> Notes on this chapter </b></summary>
 
 <h2>Notes on this chapter</h2>
-<li>**CBR** : Benefit-Cost Ratio, the bigger the number the better is the project</li>
-<li>**Business Document** is where the outline of the project is stated</li>
-<li>**An assumption og** is used to track all assumptions made throughout the project  </li>
-<li> The tool that is used for arranging a team with different skill set is a focus group, which is part of **Data Gathering**. “Meeting” and “interpersonal and team skills” do not involve a focus group.</li>
-<li> The **project management plan** contains the change management plan. Once a **change request** has been approved in the perform integrated change control process, the project manager will then execute the change in the **direct and manage project work process**
+<li> <b>CBR </b> : Cost Benifit Ratio, the bigger the number the better is the project</li>
+<li> <b>Business Document</b> is where the outline of the project is stated</li>
+<li> <b>An assumption og</b> is used to track all assumptions made throughout the project  </li>
+<li> The tool that is used for arranging a team with different skill set is a focus group, which is part of <b>Data Gathering</b>. <b>meeting</b> and “interpersonal and team skills” do not involve a focus group.</li>
+<li> The <b>project management plan</b> contains the change management plan. Once a **change request** has been approved in the perform integrated change control process, the project manager will then execute the change in the **direct and manage project work process**
 <li>Once a **Change  request** has been approved or rejected the project manager should update the *change log* to reflect the status of the change. </li> 
 <li> Once a deliverable has been accepted, the project manager should then conduct the **close project or phase** process. </li>
 * **Explicit knowledge** is gained from words, pictures, and numbers, such as reading books. **Tacit** is generally from beliefs, insights, and experiences. 
