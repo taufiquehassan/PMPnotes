@@ -276,24 +276,23 @@ This is the last process of integration. Before you do this prcess, the delivera
     <summary> <b> Notes on this chapter </b></summary>
 
 <h2>Notes on this chapter</h2>
-<li> <b>CBR </b> : Cost Benifit Ratio, the bigger the number the better is the project</li>
-<li> <b>Business Document</b> is where the outline of the project is stated</li>
-<li> <b>An assumption og</b> is used to track all assumptions made throughout the project  </li>
-<li> The tool that is used for arranging a team with different skill set is a focus group, which is part of <b>Data Gathering</b>. <b>meeting</b> and “interpersonal and team skills” do not involve a focus group.</li>
-<li> The <b>project management plan</b> contains the change management plan. Once a **change request** has been approved in the perform integrated change control process, the project manager will then execute the change in the **direct and manage project work process**
-<li>Once a **Change  request** has been approved or rejected the project manager should update the *change log* to reflect the status of the change. </li> 
-<li> Once a deliverable has been accepted, the project manager should then conduct the **close project or phase** process. </li>
-* **Explicit knowledge** is gained from words, pictures, and numbers, such as reading books. **Tacit** is generally from beliefs, insights, and experiences. 
-* The first step in managing any issues on a project is to add it to the **issue log**. From there, the PM can get a **change request** to either change the vendor or add more time to the project. Once a change request has been approved, then the PM can update the **project management plan**.
-* **The work performance data** will describe what is happening to the deliverable as it is being done.
-* The **project charter** is used to authorize a project. 
-* The **project management plan** and **stakeholder register** come after the charter is created. 
-* The **business documents* are an input to create project charters.
-* The **change management plan** is a part of the **project management plan** that will describes how to manage changes on a project. That includes getting them requested, assessed, approved, or rejected. 
-* Once new knowledge has been acquired, the project manager should update the **lesson learned register**. 
-* You should never stop work on a project without first understanding the impact of a change on a project. Never take action without first reviewing and assessing your information.
-* The **final report** is an output of the close project or phase process that will document what happened on the project. 
-* **Trend analysis** is used to analyze when a trend might be forming and where it’s going. **Variance analysis** is only used to find a variance, not to predict it. 
+<li><b>CBR </b> : Cost Benifit Ratio, the bigger the number the better is the project</li>
+<li><b>Business Document</b> is where the outline of the project is stated</li>
+<li><b>An assumption og</b> is used to track all assumptions made throughout the project  </li>
+<li>The tool that is used for arranging a team with different skill set is a focus group, which is part of <b>Data Gathering</b>. <b>meeting</b> and “interpersonal and team skills” do not involve a focus group.</li>
+<li>The <b>project management plan</b> contains the change management plan. Once a <b>change request</b>b> has been approved in the perform integrated change control process, the project manager will then execute the change in the <b>direct and manage project work process</b>b>
+<li>Once a <b>Change  request</b>b> has been approved or rejected the project manager should update the <b>change log</b>b> to reflect the status of the change. </li> 
+<li>Once a deliverable has been accepted, the project manager should then conduct the <b>close project or phase</b>b> process. </li>
+<li> <b>Explicit knowledge</b> is gained from words, pictures, and numbers, such as reading books. <b>Tacit</b>b>* is generally from beliefs, insights, and experiences. </li>
+<li>The first step in managing any issues on a project is to add it to the <b>issue log</b>. From there, the PM can get a <b>change request</b> to either change the vendor or add more time to the project. Once a change request has been approved, then the PM can update the **project management plan**.</li>
+<li><b>The work performance data</b> will describe what is happening to the deliverable as it is being done.</li>
+<li>>The <b>project charter</b> is used to authorize a project.</li>
+<li>The <b>project management plan</b> and <b>stakeholder register</b> come after the charter is created.</li>
+<li>The <b>business documents</b> are an input to create project charters.</li>
+<li>The <b>change management plan</b> is a part of the <b>project management plan</b> that will describes how to manage changes on a project. That includes getting them requested, assessed, approved, or rejected.</li> 
+<li>Once new knowledge has been acquired, the project manager should update the <b>lesson learned register</b>. You should never stop working on a project without first understanding the impact of a change on a project. Never take action without first reviewing and assessing your information.</li>
+<li>The <b>final report</b> is an output of the close project or phase process that will document what happened on the project.</li>
+<li><b>Trend analysis</b> is used to analyze when a trend might be forming and where it’s going. **Variance analysis** is only used to find a variance, not to predict it. </li>
 
 
 </details>
