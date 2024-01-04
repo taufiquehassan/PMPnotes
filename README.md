@@ -286,7 +286,7 @@ This is the last process of integration. Before you do this prcess, the delivera
 <li> <b>Explicit knowledge</b> is gained from words, pictures, and numbers, such as reading books. <b>Tacit</b>b>* is generally from beliefs, insights, and experiences. </li>
 <li>The first step in managing any issues on a project is to add it to the <b>issue log</b>. From there, the PM can get a <b>change request</b> to either change the vendor or add more time to the project. Once a change request has been approved, then the PM can update the **project management plan**.</li>
 <li><b>The work performance data</b> will describe what is happening to the deliverable as it is being done.</li>
-<li>>The <b>project charter</b> is used to authorize a project.</li>
+<li>The <b>project charter</b> is used to authorize a project.</li>
 <li>The <b>project management plan</b> and <b>stakeholder register</b> come after the charter is created.</li>
 <li>The <b>business documents</b> are an input to create project charters.</li>
 <li>The <b>change management plan</b> is a part of the <b>project management plan</b> that will describes how to manage changes on a project. That includes getting them requested, assessed, approved, or rejected.</li> 
