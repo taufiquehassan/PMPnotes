@@ -275,15 +275,14 @@ This is the last process of integration. Before you do this prcess, the delivera
 <details>
     <summary> <b> Notes on this chapter </b></summary>
 
-<h3>Notes on this chapter</h3>
-<li>*CBR** : Benefit-Cost Ratio, the bigger the number the better is the project</li>
-***Business Document** is where the outline of the project is stated
-***An assumption og** is used to track all assumptions made throughout the project 
-* The tool that is used for arranging a team with different skill set is a focus group, which is part of **Data Gathering**. “Meeting” and “interpersonal and team skills” do not involve a focus group.
-* The **project management plan** contains the change management plan. 
-Once a **change request** has been approved in the perform integrated change control process, the project manager will then execute the change in the **direct and manage project work process**
-* Once a **Change  request** has been approved or rejected the project manager should update the *change log* to reflect the status of the change. 
-* Once a deliverable has been accepted, the project manager should then conduct the **close project or phase** process. 
+<h2>Notes on this chapter</h2>
+<li>**CBR** : Benefit-Cost Ratio, the bigger the number the better is the project</li>
+<li>**Business Document** is where the outline of the project is stated</li>
+<li>**An assumption og** is used to track all assumptions made throughout the project  </li>
+<li> The tool that is used for arranging a team with different skill set is a focus group, which is part of **Data Gathering**. “Meeting” and “interpersonal and team skills” do not involve a focus group.</li>
+<li> The **project management plan** contains the change management plan. Once a **change request** has been approved in the perform integrated change control process, the project manager will then execute the change in the **direct and manage project work process**
+<li>Once a **Change  request** has been approved or rejected the project manager should update the *change log* to reflect the status of the change. </li> 
+<li> Once a deliverable has been accepted, the project manager should then conduct the **close project or phase** process. </li>
 * **Explicit knowledge** is gained from words, pictures, and numbers, such as reading books. **Tacit** is generally from beliefs, insights, and experiences. 
 * The first step in managing any issues on a project is to add it to the **issue log**. From there, the PM can get a **change request** to either change the vendor or add more time to the project. Once a change request has been approved, then the PM can update the **project management plan**.
 * **The work performance data** will describe what is happening to the deliverable as it is being done.
