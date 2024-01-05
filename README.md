@@ -333,8 +333,8 @@ controlling what is and what is not included in the project.”
   <li> 180 questions in 230 minutes </li>
   <li> Question Type: </li>
       1. Drag and Drop 
-      - Hotspot question
-      - ABCD question format
+      2. Hotspot question
+      3. ABCD question format
 
 </ul> 
 
