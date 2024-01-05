@@ -331,10 +331,10 @@ controlling what is and what is not included in the project.”
 <h3> Exam Outline </h3>
 <ul>
   <li> 180 questions in 230 minutes </li>
-  <li> Question Type: </li><br>
-      <li> Drag and Drop </li>
-      <li> Hotspot question </li>
-      <li> ABCD question format </li>
+  <li> Question Type: </li>
+      1. Drag and Drop 
+      - Hotspot question
+      - ABCD question format
 
 </ul> 
 
