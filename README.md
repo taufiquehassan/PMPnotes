@@ -358,7 +358,6 @@ controlling what is and what is not included in the project.”
       <li> Define Team Ground Rules </li>
       <li> Mentor Relevant Stakeholders </li>
       <li> Perform Team Performance through the Application of Imotional Intelligence </li>
-
       </ol>
   <li> You can leave answers for review. Answer to all questions. </li>
 </ul> 
