@@ -337,7 +337,29 @@ controlling what is and what is not included in the project.”
       <li> Hotspot question </li>
       <li> ABCD question format </li>
       </ul>
+  <li> You can leave answers for review. Answer to all questions. </li>
 </ul> 
 
-<h3> Inputs:</h3> 
+<h3> Exam Domain </h3>
+<ul>
+  <li> Exam Domain 1: People - 14 Tasks || 42 % Questions || 84 Questions ||  </li>
+      <ol>
+      <li> Manage Conflict </li>
+      <li> Lead a Team </li>
+      <li> Support Team Performance</li>
+      <li> Empower Team Members and Stakeholders </li>
+      <li> Ensure Teammeambers/stakeholders are adequately trained </li>
+      <li> Build a Team </li>
+      <li> Address and Remove Impediments, Obstacles, and Blockers from the Team </li>
+      <li> Negotiate Project Agreement </li>
+      <li> Collaborate with Stakeholders </li>
+      <li> Build Shared Understanding </li>
+      <li> Engage and Support Virtual Teams </li>
+      <li> Define Team Ground Rules </li>
+      <li> Mentor Relevant Stakeholders </li>
+      <li> Perform Team Performance through the Application of Imotional Intelligence </li>
+
+      </ol>
+  <li> You can leave answers for review. Answer to all questions. </li>
+</ul> 
 </details>
