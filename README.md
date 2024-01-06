@@ -36,6 +36,7 @@
       <li> Mentor Relevant Stakeholders </li>
       <li> Perform Team Performance through the Application of Imotional Intelligence </li>
       </ol>
+
     <li> Exam Domain 2: Processes - 17 Tasks || 50 % Questions || 100 Questions ||  </li>
   <ol>
       <li> Execute Project with Urgency Required to Deliver Business Value </li>
@@ -56,6 +57,7 @@
       <li> Ensure Knowledge Transfer for Project Continuity </li>
       <li> Plan and Manage Project/Phase Closure or Transitions </li>
   </ol>
+  
     <li> Exam Domain 3: Business Environment - 4 Tasks || 8 % Questions || 7 Questions ||  </li>
   <ol>
       <li> Plan and Manage Project Complience </li>
