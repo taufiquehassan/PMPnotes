@@ -51,11 +51,6 @@
 
 
 
-# Integration Management 
-```
-PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate 
-the various processes and project management activities within the PM Process Groups.”
-```
 ## Process Groups:
 <details>
   <summary> <b> 1. Initiating: Develop Project Charter</b></summary>
@@ -375,3 +370,8 @@ controlling what is and what is not included in the project.”
 
 </details>
 
+## Integration Management 
+```
+PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate 
+the various processes and project management activities within the PM Process Groups.”
+```
