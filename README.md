@@ -1,5 +1,56 @@
 <img src="header.png">
 
+
+## Prep Introduction:
+<details>
+  <summary> <b> 1. Exam Outline</b></summary>
+
+<h3> Exam Outline </h3>
+<ul>
+  <li> 180 questions in 230 minutes </li>
+  <li> Question Type: </li>
+      <ul>
+      <li> Drag and Drop </li>
+      <li> Hotspot question </li>
+      <li> ABCD question format </li>
+      </ul>
+  <li> You can leave answers for review. Answer to all questions. </li>
+</ul> 
+
+<h3> Exam Domain </h3>
+<ul>
+  <li> Exam Domain 1: People - 14 Tasks || 42 % Questions || 84 Questions ||  </li>
+      <ol>
+      <li> Manage Conflict </li>
+      <li> Lead a Team </li>
+      <li> Support Team Performance</li>
+      <li> Empower Team Members and Stakeholders </li>
+      <li> Ensure Teammeambers/stakeholders are adequately trained </li>
+      <li> Build a Team </li>
+      <li> Address and Remove Impediments, Obstacles, and Blockers from the Team </li>
+      <li> Negotiate Project Agreement </li>
+      <li> Collaborate with Stakeholders </li>
+      <li> Build Shared Understanding </li>
+      <li> Engage and Support Virtual Teams </li>
+      <li> Define Team Ground Rules </li>
+      <li> Mentor Relevant Stakeholders </li>
+      <li> Perform Team Performance through the Application of Imotional Intelligence </li>
+      </ol>
+    <li> Exam Domain 2: Processes - 17 Tasks || 50 % Questions || 100 Questions ||  </li>
+  <ol>
+      <li> Execute Project with Urgency Required to Deliver Business Value </li>
+      <li> Manage Communication </li>
+      <li> Assess and manage Risks </li>
+      <li> Engage Stakeholders </li>
+      <li>  Plan and Manage Budget and Resources </li>
+      
+
+   </ol>
+</ul> 
+</details>
+
+
+
 # Integration Management 
 ```
 PMBOK – “Includes the processes and activities needed to identify, define, combine, unify and coordinate 
@@ -324,49 +375,3 @@ controlling what is and what is not included in the project.”
 
 </details>
 
-## Prep Introduction:
-<details>
-  <summary> <b> 1. Exam Outline</b></summary>
-
-<h3> Exam Outline </h3>
-<ul>
-  <li> 180 questions in 230 minutes </li>
-  <li> Question Type: </li>
-      <ul>
-      <li> Drag and Drop </li>
-      <li> Hotspot question </li>
-      <li> ABCD question format </li>
-      </ul>
-  <li> You can leave answers for review. Answer to all questions. </li>
-</ul> 
-
-<h3> Exam Domain </h3>
-<ul>
-  <li> Exam Domain 1: People - 14 Tasks || 42 % Questions || 84 Questions ||  </li>
-      <ol>
-      <li> Manage Conflict </li>
-      <li> Lead a Team </li>
-      <li> Support Team Performance</li>
-      <li> Empower Team Members and Stakeholders </li>
-      <li> Ensure Teammeambers/stakeholders are adequately trained </li>
-      <li> Build a Team </li>
-      <li> Address and Remove Impediments, Obstacles, and Blockers from the Team </li>
-      <li> Negotiate Project Agreement </li>
-      <li> Collaborate with Stakeholders </li>
-      <li> Build Shared Understanding </li>
-      <li> Engage and Support Virtual Teams </li>
-      <li> Define Team Ground Rules </li>
-      <li> Mentor Relevant Stakeholders </li>
-      <li> Perform Team Performance through the Application of Imotional Intelligence </li>
-      </ol>
-    <li> Exam Domain 2: Processes - 17 Tasks || 50 % Questions || 100 Questions ||  </li>
-  <ol>
-      <li> Execute Project with Urgency Required to Deliver Business Value </li>
-      <li> Manage Communication </li>
-      <li> Assess and manage Risks </li>
-      <li> Engage Stakeholders </li>
-      <li>  Plan and Manage Budget and Resources </li>
-
-   </ol>
-</ul> 
-</details>
