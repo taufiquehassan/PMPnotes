@@ -1,7 +1,7 @@
 <img src="header.png">
 
 
-## Prep Introduction:
+## Exam Preperation:
 <details>
   <summary> <b> 1. Exam Outline</b></summary>
 
@@ -42,10 +42,26 @@
       <li> Manage Communication </li>
       <li> Assess and manage Risks </li>
       <li> Engage Stakeholders </li>
-      <li>  Plan and Manage Budget and Resources </li>
-      
-
-   </ol>
+      <li> Plan and Manage Budget and Resources </li>
+      <li> Plan and Manage Schedule </li>
+      <li> Plan and Manage Quality of Products/Deliverables </li>
+      <li> Plan and Manage Scope </li>
+      <li> Integrate Project Planning Activities </li>
+      <li> Manage Project Changes </li>
+      <li> Plan and Manage Procurement </li>
+      <li> Manage Project Artifacts </li>
+      <li> Determine Appropriate Project Methodology/Methods and Practices </li>
+      <li> Stablish Project Governance Structure </li>
+      <li> Manage Project Issues </li>
+      <li> Ensure Knowledge Transfer for Project Continuity </li>
+      <li> Plan and Manage Project/Phase Closure or Transitions </li>
+  </ol>
+    <li> Exam Domain 3: Business Environment - 4 Tasks || 8 % Questions || 7 Questions ||  </li>
+  <ol>
+      <li> Plan and Manage Project Complience </li>
+      <li> Evaluate and Deliver Project Benifits and Values </li>
+      <li> Evaluate and Address External Business environment Changes for Impact on Scope </li>
+      <li> Support Organizational Change</li> 
 </ul> 
 </details>
 
