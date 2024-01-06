@@ -365,6 +365,8 @@ controlling what is and what is not included in the project.”
       <li> Manage Communication </li>
       <li> Assess and manage Risks </li>
       <li> Engage Stakeholders </li>
+      <li>  Plan and Manage Budget and Resources </li>
+
    </ol>
 </ul> 
 </details>
