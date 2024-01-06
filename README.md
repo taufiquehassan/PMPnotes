@@ -359,6 +359,12 @@ controlling what is and what is not included in the project.”
       <li> Mentor Relevant Stakeholders </li>
       <li> Perform Team Performance through the Application of Imotional Intelligence </li>
       </ol>
-  <li> You can leave answers for review. Answer to all questions. </li>
+    <li> Exam Domain 2: Processes - 17 Tasks || 50 % Questions || 100 Questions ||  </li>
+  <ol>
+      <li> Execute Project with Urgency Required to Deliver Business Value </li>
+      <li> Manage Communication </li>
+      <li> Assess and manage Risks </li>
+      <li> Engage Stakeholders </li>
+   </ol>
 </ul> 
 </details>
